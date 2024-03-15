@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:food_fleet/core/auth/auth_screens/auth_screen.dart';
-import 'package:food_fleet/core/auth/auth_screens/auth_sigin.dart';
-import 'package:food_fleet/core/presetation/splash_screen/splash_screen.dart';
 
 void main() => runApp(const App());
 
